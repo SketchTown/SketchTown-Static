@@ -1,0 +1,16 @@
+{
+	"item": {
+		"downloadUrl": "https://static.sketch.town/assets/packs/item/${version}.zip",
+		"latest": "230803",
+		"availableVersions": [
+			"230510", "230515", "230803"
+		]
+	},
+	"transit": {
+		"downloadUrl": "https://static.sketch.town/assets/packs/transit/${version}.zip",
+		"latest": "240129",
+		"availableVersions": [
+			"230612", "230803", "240129"
+		]
+	}
+}
